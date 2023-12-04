@@ -36,5 +36,67 @@
       "link": "/product-page",
       "imgName": "custom-brown-kraft-boxes.jpg"
     }
+  ],
+  "productSubCategories": [
+    {
+      "title": "Clothes Boxes",
+      "link": "/product-page",
+      "imgName": "clothing-boxes.webp"
+    },
+    {
+      "title": "Cufflink Boxes",
+      "link": "/product-page",
+      "imgName": "cufflink-boxes.webp"
+    },
+    {
+      "title": "Tshirt Boxes",
+      "link": "/product-page",
+      "imgName": "custom-printed-shirt-packaging-box.webp"
+    },
+    {
+      "title": "Belt Boxes",
+      "link": "/product-page",
+      "imgName": "belt-boxes.webp"
+    },
+    {
+      "title": "Cake Boxes",
+      "link": "/product-page",
+      "imgName": "custom-cake-box.webp"
+    },
+    {
+      "title": "CBD Boxes",
+      "link": "/product-page",
+      "imgName": "custom-printed-cbd-oil-box.webp"
+    },
+    {
+      "title": "Clothes Boxes",
+      "link": "/product-page",
+      "imgName": "clothing-boxes.webp"
+    },
+    {
+      "title": "Cufflink Boxes",
+      "link": "/product-page",
+      "imgName": "cufflink-boxes.webp"
+    },
+    {
+      "title": "Tshirt Boxes",
+      "link": "/product-page",
+      "imgName": "custom-printed-shirt-packaging-box.webp"
+    },
+    {
+      "title": "Belt Boxes",
+      "link": "/product-page",
+      "imgName": "belt-boxes.webp"
+    },
+    {
+      "title": "Cake Boxes",
+      "link": "/product-page",
+      "imgName": "custom-cake-box.webp"
+    },
+    {
+      "title": "CBD Boxes",
+      "link": "/product-page",
+      "imgName": "custom-printed-cbd-oil-box.webp"
+    }
   ]
 }
