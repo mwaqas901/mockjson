@@ -4,38 +4,38 @@
     title: "Chocolate Boxes",
     description:"Highlight Your Products with Extraordinary and Unique Custom...",
     link: "/product-page",
-    imgName: "Chocolate-Boxes.jpg",
+    imgName: "Chocolate-Boxes.jpg"
   },
   {
     title: "Candle Boxes",
     description:
       "Highlight Your Products with Extraordinary and Unique Custom...",
     link: "/product-page",
-    imgName: "Candle-Boxes.jpg",
+    imgName: "Candle-Boxes.jpg"
   },
   {
     title: "Custom Cosmetics Boxes",
     description:"Highlight Your Products with Extraordinary and Unique Custom...",
     link: "/product-page",
-    imgName: "Custom-cosmetics-boxes.jpg",
+    imgName: "Custom-cosmetics-boxes.jpg"
   },
   {
     title: "Custom Retail Boxes",
     description:"Highlight Your Products with Extraordinary and Unique Custom...",
     link: "/product-page",
-    imgName: "custom-retail-boxes.webp",
+    imgName: "custom-retail-boxes.webp"
   },
   {
     title: "Ecommerce Boxes",
     description:"Highlight Your Products with Extraordinary and Unique Custom...",
     link: "/product-page",
-    imgName: "Ecommerce-Boxes.jpg",
+    imgName: "Ecommerce-Boxes.jpg"
   },
   {
     title: "Kraft Boxes",
     description:"Highlight Your Products with Extraordinary and Unique Custom...",
     link: "/product-page",
-    imgName: "custom-brown-kraft-boxes.jpg",
+    imgName: "custom-brown-kraft-boxes.jpg"
   }
 ]
 }
