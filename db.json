@@ -1,36 +1,42 @@
 {
   "productCategories": [
     {
+      "id": 1,
       "title": "Chocolate Boxes Updated",
       "description": "Highlight Your Products with Extraordinary and Unique Custom...",
       "link": "/product-page",
       "imgName": "Chocolate-Boxes.jpg"
     },
     {
+      "id": 2,
       "title": "Candle Boxes",
       "description": "Highlight Your Products with Extraordinary and Unique Custom...",
       "link": "/product-page",
       "imgName": "Candle-Boxes.jpg"
     },
     {
+      "id": 3,
       "title": "Custom Cosmetics Boxes",
       "description": "Highlight Your Products with Extraordinary and Unique Custom...",
       "link": "/product-page",
       "imgName": "Custom-cosmetics-boxes.jpg"
     },
     {
+      "id": 4,
       "title": "Custom Retail Boxes",
       "description": "Highlight Your Products with Extraordinary and Unique Custom...",
       "link": "/product-page",
       "imgName": "custom-retail-boxes.webp"
     },
     {
+      "id": 5,
       "title": "Ecommerce Boxes",
       "description": "Highlight Your Products with Extraordinary and Unique Custom...",
       "link": "/product-page",
       "imgName": "Ecommerce-Boxes.jpg"
     },
     {
+      "id": 6,
       "title": "Kraft Boxes",
       "description": "Highlight Your Products with Extraordinary and Unique Custom...",
       "link": "/product-page",
@@ -39,61 +45,73 @@
   ],
   "productSubCategories": [
     {
+      "id": 1,
       "title": "Clothes Boxes",
       "link": "/product-page",
       "imgName": "clothing-boxes.webp"
     },
     {
+      "id": 2,
       "title": "Cufflink Boxes",
       "link": "/product-page",
       "imgName": "cufflink-boxes.webp"
     },
     {
+      "id": 3,
       "title": "Tshirt Boxes",
       "link": "/product-page",
       "imgName": "custom-printed-shirt-packaging-box.webp"
     },
     {
+      "id": 4,
       "title": "Belt Boxes",
       "link": "/product-page",
       "imgName": "belt-boxes.webp"
     },
     {
+      "id": 5,
       "title": "Cake Boxes",
       "link": "/product-page",
       "imgName": "custom-cake-box.webp"
     },
     {
+      "id": 6,
       "title": "CBD Boxes",
       "link": "/product-page",
       "imgName": "custom-printed-cbd-oil-box.webp"
     },
     {
+      "id": 7,
       "title": "Clothes Boxes",
       "link": "/product-page",
       "imgName": "clothing-boxes.webp"
     },
     {
+      "id": 8,
       "title": "Cufflink Boxes",
       "link": "/product-page",
       "imgName": "cufflink-boxes.webp"
     },
     {
+      "id": 9,
       "title": "Tshirt Boxes",
       "link": "/product-page",
       "imgName": "custom-printed-shirt-packaging-box.webp"
     },
     {
+      "id": 10,
       "title": "Belt Boxes",
       "link": "/product-page",
       "imgName": "belt-boxes.webp"
     },
     {
+      "id": 11,
       "title": "Cake Boxes",
       "link": "/product-page",
       "imgName": "custom-cake-box.webp"
     },
     {
+      "id": 12,
       "title": "CBD Boxes",
       "link": "/product-page",
       "imgName": "custom-printed-cbd-oil-box.webp"
