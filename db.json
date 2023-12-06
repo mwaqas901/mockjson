@@ -48,37 +48,55 @@
       "id": 1,
       "title": "Clothes Boxes",
       "link": "/product-page",
-      "imgName": "clothing-boxes.webp"
+      "imgName": "clothing-boxes.webp",
+      "imgName2" : "Candle-Boxes.jpg",
+      "imgName3" : "Custom-cosmetics-boxes.jpg",
+      "imgName4" : "custom-retail-boxes.webp",
     },
     {
       "id": 2,
       "title": "Cufflink Boxes",
       "link": "/product-page",
-      "imgName": "cufflink-boxes.webp"
+      "imgName": "cufflink-boxes.webp",
+       "imgName2" : "Candle-Boxes.jpg",
+      "imgName3" : "Custom-cosmetics-boxes.jpg",
+      "imgName4" : "custom-retail-boxes.webp"
     },
     {
       "id": 3,
       "title": "Tshirt Boxes",
       "link": "/product-page",
-      "imgName": "custom-printed-shirt-packaging-box.webp"
+      "imgName": "custom-printed-shirt-packaging-box.webp",
+      "imgName2" : "Candle-Boxes.jpg",
+      "imgName3" : "Custom-cosmetics-boxes.jpg",
+      "imgName4" : "custom-retail-boxes.webp"
     },
     {
       "id": 4,
       "title": "Belt Boxes",
       "link": "/product-page",
-      "imgName": "belt-boxes.webp"
+      "imgName": "belt-boxes.webp",
+      "imgName2" : "Candle-Boxes.jpg",
+      "imgName3" : "Custom-cosmetics-boxes.jpg",
+      "imgName4" : "custom-retail-boxes.webp"
     },
     {
       "id": 5,
       "title": "Cake Boxes",
       "link": "/product-page",
-      "imgName": "custom-cake-box.webp"
+      "imgName": "custom-cake-box.webp",
+      "imgName2" : "Candle-Boxes.jpg",
+      "imgName3" : "Custom-cosmetics-boxes.jpg",
+      "imgName4" : "custom-retail-boxes.webp"
     },
     {
       "id": 6,
       "title": "CBD Boxes",
       "link": "/product-page",
-      "imgName": "custom-printed-cbd-oil-box.webp"
+      "imgName": "custom-printed-cbd-oil-box.webp",
+      "imgName2" : "Candle-Boxes.jpg",
+      "imgName3" : "Custom-cosmetics-boxes.jpg",
+      "imgName4" : "custom-retail-boxes.webp"
     }
   ]
 }
