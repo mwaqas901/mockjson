@@ -1,102 +1,102 @@
 {
-  "productCategories": [
-    {
-      "id": 1,
-      "title": "Chocolate Boxes Updated",
-      "description": "Highlight Your Products with Extraordinary and Unique Custom...",
-      "link": "/product-page",
-      "imgName": "Chocolate-Boxes.jpg"
-    },
-    {
-      "id": 2,
-      "title": "Candle Boxes",
-      "description": "Highlight Your Products with Extraordinary and Unique Custom...",
-      "link": "/product-page",
-      "imgName": "Candle-Boxes.jpg"
-    },
-    {
-      "id": 3,
-      "title": "Custom Cosmetics Boxes",
-      "description": "Highlight Your Products with Extraordinary and Unique Custom...",
-      "link": "/product-page",
-      "imgName": "Custom-cosmetics-boxes.jpg"
-    },
-    {
-      "id": 4,
-      "title": "Custom Retail Boxes",
-      "description": "Highlight Your Products with Extraordinary and Unique Custom...",
-      "link": "/product-page",
-      "imgName": "custom-retail-boxes.webp"
-    },
-    {
-      "id": 5,
-      "title": "Ecommerce Boxes",
-      "description": "Highlight Your Products with Extraordinary and Unique Custom...",
-      "link": "/product-page",
-      "imgName": "Ecommerce-Boxes.jpg"
-    },
-    {
-      "id": 6,
-      "title": "Kraft Boxes",
-      "description": "Highlight Your Products with Extraordinary and Unique Custom...",
-      "link": "/product-page",
-      "imgName": "custom-brown-kraft-boxes.jpg"
-    }
-  ],
-  "productSubCategories": [
-    {
-      "id": 1,
-      "title": "Clothes Boxes",
-      "link": "/product-page",
-      "imgName": "clothing-boxes.webp",
-      "imgName2" : "Candle-Boxes.jpg",
-      "imgName3" : "Custom-cosmetics-boxes.jpg",
-      "imgName4" : "custom-retail-boxes.webp"
-    },
-    {
-      "id": 2,
-      "title": "Cufflink Boxes",
-      "link": "/product-page",
-      "imgName": "cufflink-boxes.webp",
-       "imgName2" : "Candle-Boxes.jpg",
-      "imgName3" : "Custom-cosmetics-boxes.jpg",
-      "imgName4" : "custom-retail-boxes.webp"
-    },
-    {
-      "id": 3,
-      "title": "Tshirt Boxes",
-      "link": "/product-page",
-      "imgName": "custom-printed-shirt-packaging-box.webp",
-      "imgName2" : "Candle-Boxes.jpg",
-      "imgName3" : "Custom-cosmetics-boxes.jpg",
-      "imgName4" : "custom-retail-boxes.webp"
-    },
-    {
-      "id": 4,
-      "title": "Belt Boxes",
-      "link": "/product-page",
-      "imgName": "belt-boxes.webp",
-      "imgName2" : "Candle-Boxes.jpg",
-      "imgName3" : "Custom-cosmetics-boxes.jpg",
-      "imgName4" : "custom-retail-boxes.webp"
-    },
-    {
-      "id": 5,
-      "title": "Cake Boxes",
-      "link": "/product-page",
-      "imgName": "custom-cake-box.webp",
-      "imgName2" : "Candle-Boxes.jpg",
-      "imgName3" : "Custom-cosmetics-boxes.jpg",
-      "imgName4" : "custom-retail-boxes.webp"
-    },
-    {
-      "id": 6,
-      "title": "CBD Boxes",
-      "link": "/product-page",
-      "imgName": "custom-printed-cbd-oil-box.webp",
-      "imgName2" : "Candle-Boxes.jpg",
-      "imgName3" : "Custom-cosmetics-boxes.jpg",
-      "imgName4" : "custom-retail-boxes.webp"
-    }
-  ]
+   "productCategories":[
+      {
+         "id":1,
+         "title":"Chocolate Boxes Updated",
+         "description":"Highlight Your Products with Extraordinary and Unique Custom...",
+         "link":"/product-page",
+         "imgName":"Chocolate-Boxes.jpg"
+      },
+      {
+         "id":2,
+         "title":"Candle Boxes",
+         "description":"Highlight Your Products with Extraordinary and Unique Custom...",
+         "link":"/product-page",
+         "imgName":"Candle-Boxes.jpg"
+      },
+      {
+         "id":3,
+         "title":"Custom Cosmetics Boxes",
+         "description":"Highlight Your Products with Extraordinary and Unique Custom...",
+         "link":"/product-page",
+         "imgName":"Custom-cosmetics-boxes.jpg"
+      },
+      {
+         "id":4,
+         "title":"Custom Retail Boxes",
+         "description":"Highlight Your Products with Extraordinary and Unique Custom...",
+         "link":"/product-page",
+         "imgName":"custom-retail-boxes.webp"
+      },
+      {
+         "id":5,
+         "title":"Ecommerce Boxes",
+         "description":"Highlight Your Products with Extraordinary and Unique Custom...",
+         "link":"/product-page",
+         "imgName":"Ecommerce-Boxes.jpg"
+      },
+      {
+         "id":6,
+         "title":"Kraft Boxes",
+         "description":"Highlight Your Products with Extraordinary and Unique Custom...",
+         "link":"/product-page",
+         "imgName":"custom-brown-kraft-boxes.jpg"
+      }
+   ],
+   "productSubCategories":[
+      {
+         "id":1,
+         "title":"Clothes Boxes",
+         "link":"/product-page",
+         "imgName":"clothing-boxes.webp",
+         "imgName2":"Candle-Boxes.jpg",
+         "imgName3":"Custom-cosmetics-boxes.jpg",
+         "imgName4":"custom-retail-boxes.webp"
+      },
+      {
+         "id":2,
+         "title":"Cufflink Boxes",
+         "link":"/product-page",
+         "imgName":"cufflink-boxes.webp",
+         "imgName2":"Candle-Boxes.jpg",
+         "imgName3":"Custom-cosmetics-boxes.jpg",
+         "imgName4":"custom-retail-boxes.webp"
+      },
+      {
+         "id":3,
+         "title":"Tshirt Boxes",
+         "link":"/product-page",
+         "imgName":"custom-printed-shirt-packaging-box.webp",
+         "imgName2":"Candle-Boxes.jpg",
+         "imgName3":"Custom-cosmetics-boxes.jpg",
+         "imgName4":"custom-retail-boxes.webp"
+      },
+      {
+         "id":4,
+         "title":"Belt Boxes",
+         "link":"/product-page",
+         "imgName":"belt-boxes.webp",
+         "imgName2":"Candle-Boxes.jpg",
+         "imgName3":"Custom-cosmetics-boxes.jpg",
+         "imgName4":"custom-retail-boxes.webp"
+      },
+      {
+         "id":5,
+         "title":"Cake Boxes",
+         "link":"/product-page",
+         "imgName":"custom-cake-box.webp",
+         "imgName2":"Candle-Boxes.jpg",
+         "imgName3":"Custom-cosmetics-boxes.jpg",
+         "imgName4":"custom-retail-boxes.webp"
+      },
+      {
+         "id":6,
+         "title":"CBD Boxes",
+         "link":"/product-page",
+         "imgName":"custom-printed-cbd-oil-box.webp",
+         "imgName2":"Candle-Boxes.jpg",
+         "imgName3":"Custom-cosmetics-boxes.jpg",
+         "imgName4":"custom-retail-boxes.webp"
+      }
+   ]
 }
